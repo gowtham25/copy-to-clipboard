@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.clipboard-input {
+  padding: 8px;
+  outline: none;
+  border-radius: 10px;
+  border: 1px solid #CCC;
+}
